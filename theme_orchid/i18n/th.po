@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Wil Odoo, 2024
-# Rasareeyar Lappiam, 2024
+# Rasareeyar Lappiam, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
 "PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Rasareeyar Lappiam, 2024\n"
+"Last-Translator: Rasareeyar Lappiam, 2025\n"
 "Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,7 +61,7 @@ msgstr "$50.00"
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
 msgid "$55.00"
-msgstr ""
+msgstr "$55.00"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
@@ -87,7 +87,7 @@ msgstr ""
 msgid ""
 "<br/>Creating vibrant, handcrafted bouquets to celebrate every "
 "occasion.<br/><br/>"
-msgstr ""
+msgstr "<br/>การสร้างสรรค์ช่อดอกไม้ที่มีชีวิตชีวาเพื่อฉลองทุกโอกาส<br/><br/>"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_empowerment
@@ -95,11 +95,13 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Fresh "
 "and beautiful"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
+"role=\"img\"/>  สดใหม่และสวยงาม"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_image_title
 msgid "A Deep Dive into Blooms and Beauty"
-msgstr ""
+msgstr "เจาะลึกเรื่องดอกไม้และความงาม"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
@@ -113,7 +115,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_image_hexagonal
 msgid "A place of paradise for flower lovers"
-msgstr ""
+msgstr "สวรรค์สำหรับคนรักดอกไม้"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quotes_carousel
@@ -145,7 +147,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
 msgid "Aline is the mastermind behind our bespoke floral arrangements."
-msgstr ""
+msgstr "Aline คือผู้วางแผนหลักเบื้องหลังการจัดดอกไม้สั่งทำพิเศษของเรา"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -176,12 +178,12 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
 msgid "Blooming with Quality and Care"
-msgstr ""
+msgstr "เติบโตด้วยคุณภาพและความเอาใจใส่"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_carousel_intro
 msgid "Blooming with elegance and beauty"
-msgstr ""
+msgstr "เติบโตด้วยความสง่างามและความสวยงาม"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
@@ -200,12 +202,12 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_empowerment
 msgid "Brighten your day with<br/>stunning designs from your local florist"
-msgstr ""
+msgstr "เพิ่มสีสันให้กับวันของคุณด้วย<br/>ดีไซน์ที่สวยงามจากร้านดอกไม้ของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_striped_center_top
 msgid "Bring Nature to Your Space"
-msgstr ""
+msgstr "นำธรรมชาติมาสู่พื้นที่ของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quadrant
@@ -221,17 +223,17 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_card_offset
 msgid "Bringing Nature to Your Doorstep"
-msgstr ""
+msgstr "นำธรรมชาติมาสู่หน้าประตูของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_freegrid
 msgid "Bringing the Beauty of Nature to Your Space"
-msgstr ""
+msgstr "นำความงดงามของธรรมชาติมาสู่พื้นที่ของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quadrant
 msgid "Browse Flowers"
-msgstr ""
+msgstr "ค้นหาดอกไม้"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_empowerment
@@ -239,16 +241,18 @@ msgid ""
 "Browse our floral arrangements   <i class=\"fa fa-long-arrow-right\" "
 "role=\"img\"/>"
 msgstr ""
+"เลือกดูการจัดดอกไม้ของเรา   <i class=\"fa fa-long-arrow-right\" "
+"role=\"img\"/>"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_card_offset
 msgid "Celebrate nature’s beauty with us."
-msgstr ""
+msgstr "ร่วมเฉลิมฉลองความงดงามของธรรมชาติไปกับเรา"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
 msgid "Celebrate with Our Best-Selling Bouquets, perfect for every occasion."
-msgstr ""
+msgstr "ร่วมฉลองกับช่อดอกไม้ขายดีที่สุดของเราและเหมาะสำหรับทุกโอกาส"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
@@ -272,7 +276,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
 msgid "Creativity Like a Wildflower"
-msgstr ""
+msgstr "ความคิดที่สร้างสรรค์เหมือนดอกไม้ป่า"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_benefits
@@ -297,12 +301,12 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_images_mosaic
 msgid "Discover Our Latest Floral Arrangements"
-msgstr ""
+msgstr "ค้นพบการจัดดอกไม้ใหม่ล่าสุดของเรา"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
 msgid "Discover Our Most Loved Arrangements"
-msgstr ""
+msgstr "ค้นพบการจัดเตรียมที่เราชื่นชอบที่สุด"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_shape_image
@@ -345,11 +349,12 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cta_box
 msgid "Each occasion deserves flowers, discover our large selection<br/><br/>"
 msgstr ""
+"แต่ละโอกาสสมควรมีช่อดอกไม้ พบกับช่อดอกไม้ที่มีให้เลือกมากมาย<br/><br/>"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_wavy_grid
 msgid "Eco-Friendly Flowers"
-msgstr ""
+msgstr "ดอกไม้ที่เป็นมิตรกับสิ่งแวดล้อม"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -447,7 +452,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_images_mosaic
 msgid "Explore fresh blooms and unique designs for every occasion."
-msgstr ""
+msgstr "ค้นพบดอกไม้สดใหม่และการออกแบบที่เป็นเอกลักษณ์ที่เหมาะสำหรับทุกโอกาส"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_carousel_intro
@@ -504,27 +509,27 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_carousel_intro
 msgid "Floral arrangements crafted for you"
-msgstr ""
+msgstr "การจัดดอกไม้ที่สร้างสรรค์เพื่อคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
 msgid "Flower Delivery Service"
-msgstr ""
+msgstr "บริการจัดส่งดอกไม้"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.configurator_s_kickoff
 msgid "Fresh Flowers Delivered to Your Doorstep!"
-msgstr ""
+msgstr "จัดส่งดอกไม้สดถึงหน้าประตูบ้านของคุณ!"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_framed_intro
 msgid "Fresh Flowers Delivered to Your Doorstep! Hello"
-msgstr ""
+msgstr "จัดส่งดอกไม้สดถึงหน้าบ้านคุณ! สวัสดี"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_features_wall
 msgid "Fresh Seasonal Flowers"
-msgstr ""
+msgstr "ดอกไม้สดตามฤดูกาล"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
@@ -544,7 +549,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.configurator_s_image_text_overlap
 msgid "Global 24-Hour Flower Delivery"
-msgstr ""
+msgstr "บริการจัดส่งดอกไม้ทั่วโลกตลอด 24 ชั่วโมง"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_wavy_grid
@@ -559,7 +564,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
 msgid "Iris ensures that each customer has a delightful experience."
-msgstr ""
+msgstr "Iris ทำให้ลูกค้าแต่ละรายมั่นใจว่าจะได้รับประสบการณ์ที่น่าพึงพอใจ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
@@ -596,7 +601,7 @@ msgstr "ใช้ชีวิตให้เต็มที่"
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_striped_top
 msgid "Live life in full bloom with Orchid"
-msgstr ""
+msgstr "ใช้ชีวิตให้บานสะพรั่งไปกับ Orchid"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -616,14 +621,14 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
 msgid "Mich makes sure everything runs smoothly."
-msgstr ""
+msgstr "Mich ทำให้แน่ใจว่าทุกอย่างดำเนินไปอย่างราบรื่น"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
 msgid ""
 "Minimalist white florals in a sleek vase, embodying sophistication and "
 "grace."
-msgstr ""
+msgstr "ดอกไม้สีขาวเรียบง่ายในแจกันดีไซน์เก๋ แสดงถึงความซับซ้อนและสง่างาม"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.configurator_s_title
@@ -667,7 +672,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_features_wall
 msgid "Personalized Flower Delivery"
-msgstr ""
+msgstr "บริการจัดส่งดอกไม้แบบเฉพาะบุคคล"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
@@ -691,7 +696,7 @@ msgstr "คุณภาพและความสดใหม่"
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
 msgid "Reliability Like a Sunflower"
-msgstr ""
+msgstr "น่าเชื่อถือเหมือนดอกทานตะวัน"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
@@ -705,7 +710,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cta_box
 msgid "Say it with flowers"
-msgstr ""
+msgstr "พูดด้วยการให้ดอกไม้"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_framed_intro
@@ -744,7 +749,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
 msgid "Starting at $250.00"
-msgstr ""
+msgstr "เริ่มต้นที่ $250.00"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_features_wall
@@ -800,7 +805,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
 msgid "Tony leads the creative vision for the shop."
-msgstr ""
+msgstr "Tony เป็นผู้นำวิสัยทัศน์สร้างสรรค์สำหรับร้านค้า"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_image_title
@@ -925,7 +930,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_big_number
 msgid "varieties of flowers to choose from"
-msgstr ""
+msgstr "มีดอกไม้หลากหลายชนิดให้เลือก"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed

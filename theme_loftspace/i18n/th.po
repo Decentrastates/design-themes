@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Wil Odoo, 2024
-# Rasareeyar Lappiam, 2024
+# Rasareeyar Lappiam, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:31+0000\n"
 "PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Rasareeyar Lappiam, 2024\n"
+"Last-Translator: Rasareeyar Lappiam, 2025\n"
 "Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,37 +50,37 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
 msgid "\"Desk is stylish and built to last!\""
-msgstr ""
+msgstr "\"โต๊ะที่มีสไตล์และคงทนนาน\""
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
 msgid "\"Dining set is top quality<br/>and fits perfectly!\""
-msgstr ""
+msgstr "\"ชุดโต๊ะทานอาหารคุณภาพเยี่ยม<br/>และลงตัว\""
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
 msgid "\"Sofa is both chic and super comfy!\""
-msgstr ""
+msgstr "\"โซฟามีสไตล์ที่ชิคและสบายสุดๆ\""
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$184.00"
-msgstr ""
+msgstr "$184.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$200.00"
-msgstr ""
+msgstr "$200.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$349.00"
-msgstr ""
+msgstr "$349.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$350.00"
-msgstr ""
+msgstr "$350.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -100,17 +100,17 @@ msgstr "$700.00"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$80.00"
-msgstr ""
+msgstr "$80.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$850.00"
-msgstr ""
+msgstr "$850.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$859.00"
-msgstr ""
+msgstr "$859.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -139,7 +139,7 @@ msgstr "<br/>เทรนด์สีกำลังรอที่จะนำ�
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
 msgid ""
 "<br/>Elegant designs and quality craftsmanship for every home.<br/><br/>"
-msgstr ""
+msgstr "<br/>ดีไซน์ที่หรูหราและงานฝีมือคุณภาพสำหรับบ้านทุกหลัง<br/><br/>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -147,11 +147,13 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Stylish "
 "and durable"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
+"role=\"img\"/>  มีสไตล์และทนทาน"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_image_title
 msgid "A Deep Dive into Design and Craftsmanship"
-msgstr ""
+msgstr "เจาะลึกการออกแบบและงานฝีมือ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
@@ -161,7 +163,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
 msgid "Bringing life to your interior"
-msgstr ""
+msgstr "นำชีวิตกลับมาสู่การตกแต่งภายในของคุณ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_freegrid
@@ -171,7 +173,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
 msgid "Browse our collection   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr ""
+msgstr "ดูคอลเลกชั่นของเรา   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
@@ -195,7 +197,7 @@ msgstr "การสนับสนุนที่ครอบคลุม"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
 msgid "Crafting comfort and style for your home"
-msgstr ""
+msgstr "สร้างสรรค์ความสะดวกสบายและสไตล์ให้กับบ้านของคุณ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_striped_center_top
@@ -332,12 +334,12 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
 msgid "Elegant Furniture for Modern Living"
-msgstr ""
+msgstr "เฟอร์นิเจอร์หรูหราสำหรับการใช้ชีวิตแบบสมัยใหม่"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_striped_center_top
 msgid "Elegant Furniture for a Stylish Home"
-msgstr ""
+msgstr "เฟอร์นิเจอร์หรูหราสำหรับบ้านที่มีสไตล์"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -382,7 +384,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Enjoy these added advantages with every purchase"
-msgstr ""
+msgstr "เพลิดเพลินกับสิทธิประโยชน์เพิ่มเติมเหล่านี้ทุกครั้งที่ซื้อ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -436,7 +438,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_images_mosaic
 msgid "Explore our new designs and stylish pieces for your home."
-msgstr ""
+msgstr "ค้นพบการออกแบบใหม่และชิ้นงานที่มีสไตล์ของเราสำหรับบ้านของคุณ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -456,7 +458,7 @@ msgstr "จัดส่งฟรี"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Free shipping over $100"
-msgstr ""
+msgstr "จัดส่งฟรีมากกว่า $100"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_faq_collapse
@@ -489,7 +491,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Get your furniture delivered quickly."
-msgstr ""
+msgstr "จัดส่งเฟอร์นิเจอร์ของคุณได้อย่างรวดเร็ว"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -607,7 +609,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_freegrid
 msgid "Redefine Your Space with Elegant Furniture"
-msgstr ""
+msgstr "ปรับเปลี่ยนพื้นที่ของคุณด้วยเฟอร์นิเจอร์ที่หรูหรา"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
@@ -692,7 +694,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Track your order in real-time, anytime."
-msgstr ""
+msgstr "ติดตามคำสั่งซื้อของคุณแบบเรียลไทม์ได้ตลอดเวลา"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
@@ -721,6 +723,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_unveil
 msgid "Transform your home with our stylish and functional furniture designs."
 msgstr ""
+"เปลี่ยนโฉมบ้านของคุณด้วยดีไซน์เฟอร์นิเจอร์ที่ทันสมัยและใช้งานได้จริงของเรา"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
@@ -818,7 +821,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "We're here to help you, day and night."
-msgstr ""
+msgstr "เราอยู่ที่นี่เพื่อช่วยเหลือคุณทั้งกลางวันและกลางคืน"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid

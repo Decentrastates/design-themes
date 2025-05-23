@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Wil Odoo, 2024
-# Rasareeyar Lappiam, 2024
+# Rasareeyar Lappiam, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:29+0000\n"
 "PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Rasareeyar Lappiam, 2024\n"
+"Last-Translator: Rasareeyar Lappiam, 2025\n"
 "Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,17 +59,17 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "$10.99"
-msgstr ""
+msgstr "$10.99"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "$12.50"
-msgstr ""
+msgstr "$12.50"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "$13.99"
-msgstr ""
+msgstr "$13.99"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
@@ -79,17 +79,17 @@ msgstr "$14.00"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "$16.50"
-msgstr ""
+msgstr "$16.50"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "$18.99"
-msgstr ""
+msgstr "$18.99"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_images
 msgid "101 Essays That Will Change the Way You Think"
-msgstr ""
+msgstr "101 บทความที่จะเปลี่ยนวิธีคิดของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
@@ -136,6 +136,7 @@ msgstr ""
 msgid ""
 "<br/>Curated collections and timeless classics, all in one place.<br/><br/>"
 msgstr ""
+"<br/>คอลเลคชั่นที่คัดสรรและคลาสสิกเหนือกาลเวลาทั้งหมดในที่เดียว<br/><br/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_text_cover
@@ -156,6 +157,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
 "role=\"img\"/>  Bestselling Titles"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
+"role=\"img\"/>  หนังสือขายดี"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
@@ -165,12 +168,12 @@ msgstr "เรื่องราวของประเทศเบลเยี
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_title
 msgid "A Deep Dive into Stories and Imagination"
-msgstr ""
+msgstr "เจาะลึกเรื่องราวและจินตนาการ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_striped_center_top
 msgid "A World of Knowledge Awaits"
-msgstr ""
+msgstr "โลกแห่งความรู้กำลังรอคุณอยู่"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
@@ -200,7 +203,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
 msgid "Adventure awaits at the Bookstore"
-msgstr ""
+msgstr "การผจญภัยกำลังรอคุณอยู่ที่ร้านหนังสือ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_showcase
@@ -239,7 +242,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_carousel_intro
 msgid "Books and genres curated for you"
-msgstr ""
+msgstr "หนังสือและประเภทที่คัดสรรมาเพื่อคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cards_grid
@@ -272,17 +275,17 @@ msgstr "เรียกดูห้องสมุด<br/>ที่สมบู�
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_accordion
 msgid "Can I request a book that's out of stock?"
-msgstr ""
+msgstr "ฉันสามารถขอหนังสือที่หมดสต็อกแล้วได้หรือไม่?"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cards_grid
 msgid "Change the Way You Think"
-msgstr ""
+msgstr "เปลี่ยนวิธีการคิดของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
 msgid "Come Visit Us <i class=\"fa fa-angle-right\"/>"
-msgstr ""
+msgstr "เชิญมาเยี่ยมชมเรา <i class=\"fa fa-angle-right\"/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_features_wall
@@ -303,17 +306,17 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_unveil
 msgid "Discover Your Next Favorite Book"
-msgstr ""
+msgstr "ค้นพบหนังสือเล่มโปรดเล่มต่อไปของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cards_grid
 msgid "Discover Your Next Great Read"
-msgstr ""
+msgstr "ค้นพบหนังสือดีๆ เล่มต่อไปของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_card_offset
 msgid "Discover a World of Knowledge"
-msgstr ""
+msgstr "ค้นพบโลกแห่งความรู้"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_features_wall
@@ -345,7 +348,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cta_box
 msgid "Discover new reads,<br/> shop our bestsellers today!"
-msgstr ""
+msgstr "ค้นพบหนังสือใหม่ๆ <br/>ซื้อสินค้าขายดีของเราได้แล้ววันนี้!"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -383,7 +386,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_hexagonal
 msgid "Discover the magic: a world of books awaits"
-msgstr ""
+msgstr "ค้นพบความมหัศจรรย์: โลกแห่งหนังสือกำลังรอคุณอยู่"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
@@ -393,7 +396,7 @@ msgstr "สำรวจจักรวาลที่ไม่รู้จัก
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_empowerment
 msgid "Discover your next favorite book at PageTurner Books"
-msgstr ""
+msgstr "ค้นพบหนังสือเล่มโปรดเล่มต่อไปของคุณได้ที่ PageTurner Books"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_carousel_intro
@@ -433,12 +436,12 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_card_offset
 msgid "Dive into your next great read."
-msgstr ""
+msgstr "เจาะลึกหนังสือเล่มถัดไปของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_accordion
 msgid "Do you offer gift cards?"
-msgstr ""
+msgstr "มีบัตรของขวัญขายหรือไม่?"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -483,6 +486,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers_showcase
 msgid "Explore 12,000 unique book titles curated just for you."
 msgstr ""
+"ค้นพบชื่อหนังสือที่มีเอกลักษณ์เฉพาะ 12,000 เล่มที่คัดสรรมาสำหรับคุณโดยเฉพาะ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
@@ -492,17 +496,17 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_images_mosaic
 msgid "Explore Our Latest Book Releases"
-msgstr ""
+msgstr "ค้นพบหนังสือใหม่ล่าสุดของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_freegrid
 msgid "Explore a World of Knowledge and Creativity"
-msgstr ""
+msgstr "สำรวจโลกแห่งความรู้และความคิดสร้างสรรค์"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_carousel_intro
 msgid "Explore a world of literature"
-msgstr ""
+msgstr "สำรวจโลกแห่งวรรณกรรม"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_showcase
@@ -532,7 +536,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_empowerment
 msgid "Explore new releases   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr ""
+msgstr "ค้นพบหนังสือใหม่   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers_showcase
@@ -563,7 +567,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_unveil
 msgid "Explore our vast collection and find your next great read."
-msgstr ""
+msgstr "ค้นพบคอลเลกชั่นอันกว้างใหญ่ของเราและค้นหาหนังสือดีๆ เล่มต่อไปของคุณ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_card_offset
@@ -604,7 +608,7 @@ msgstr "ค้นพบหนังสือเรื่องต่อไปข
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_images
 msgid "Finely hand-picked by our most avid readers"
-msgstr ""
+msgstr "คัดสรรมาอย่างประณีตโดยนักอ่านตัวยงของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_accordion_image
@@ -705,7 +709,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers_showcase
 msgid "Join our community of thousands of happy and satisfied readers."
-msgstr ""
+msgstr "เข้าร่วมคอมมูนิตี้ของเราที่มีผู้อ่านที่พึงพอใจนับพันของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_benefits
@@ -763,7 +767,7 @@ msgstr "กาลครั้งหนึ่ง..."
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_images
 msgid "Our bestsellers of the moment"
-msgstr ""
+msgstr "สินค้าขายดีของเราในขณะนี้"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_benefits
@@ -832,6 +836,7 @@ msgstr "อ่านเรื่องราวความรักที่ด
 msgid ""
 "Refresh your collection with our diverse genres and expert recommendations."
 msgstr ""
+"รีเฟรชคอลเลกชั่นของคุณด้วยประเภทหนังสือที่หลากหลายและคำแนะนำจากผู้เชี่ยวชาญของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
@@ -847,7 +852,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "Sapiens: A Brief History of Humankind"
-msgstr ""
+msgstr "Sapiens: ประวัติศาสตร์โดยย่อของมนุษยชาติ"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
@@ -872,7 +877,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cta_box
 msgid "Start Now<i class=\"fa fa-angle-right ms-2\" role=\"img\"/>"
-msgstr ""
+msgstr "เริ่มตอนนี้<i class=\"fa fa-angle-right ms-2\" role=\"img\"/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -883,7 +888,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_striped_top
 msgid "Take a look at our recommendations"
-msgstr ""
+msgstr "ลองดูคำแนะนำของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
@@ -958,6 +963,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cta_box
 msgid "Uncover hidden gems, indulge in literary adventures now<br/><br/>"
 msgstr ""
+"ค้นพบอัญมณีที่ซ่อนอยู่ สนุกไปกับการผจญภัยทางวรรณกรรมได้ทันที<br/><br/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -995,7 +1001,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_showcase
 msgid "We also sell prime quality second hand books"
-msgstr ""
+msgstr "นอกจากนี้เรายังจำหน่ายหนังสือมือสองคุณภาพดีอีกด้วย"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_wavy_grid
@@ -1020,27 +1026,27 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_key_images
 msgid "What I Didn't Post On Instagram"
-msgstr ""
+msgstr "สิ่งที่ฉันไม่ได้โพสต์บน Instagram"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cards_grid
 msgid "What I Didn't Post on Social Media"
-msgstr ""
+msgstr "สิ่งที่ฉันไม่ได้โพสต์บนโซเชียลมีเดีย"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_accordion
 msgid "What is your return policy?"
-msgstr ""
+msgstr "นโยบายการคืนสินค้าคืออะไร?"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_wavy_grid
 msgid "What we offer to our readers"
-msgstr ""
+msgstr "สิ่งที่เรานำเสนอให้กับผู้อ่านของเรา"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_striped_top
 msgid "Where Every Book Lover Finds Delight"
-msgstr ""
+msgstr "ที่คนรักหนังสือทุกคนจะพบกับความสุข"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_wavy_grid

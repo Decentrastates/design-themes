@@ -281,7 +281,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_cta_box
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "Nasze usługi"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_benefits
@@ -308,7 +308,7 @@ msgstr "Projekty"
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_images
 msgid "Reliability"
-msgstr ""
+msgstr "Niezawoność"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
@@ -325,7 +325,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_images
 msgid "Scalability"
-msgstr ""
+msgstr "Skalowalność"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
@@ -347,7 +347,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
 msgid "Starting at $1,500"
-msgstr ""
+msgstr "Począwszy od 1,500 USD"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
@@ -357,17 +357,17 @@ msgstr ""
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
 msgid "Starting at $2,000"
-msgstr ""
+msgstr "Począwszy od 10,000 USD"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
 msgid "Starting at $2,500"
-msgstr ""
+msgstr "Począwszy od 1,500 USD"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
 msgid "Starting at $3,000"
-msgstr ""
+msgstr "Począwszy od 10,000 USD"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed

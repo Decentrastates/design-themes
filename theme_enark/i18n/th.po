@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Wil Odoo, 2024
-# Rasareeyar Lappiam, 2024
+# Rasareeyar Lappiam, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
 "PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Rasareeyar Lappiam, 2024\n"
+"Last-Translator: Rasareeyar Lappiam, 2025\n"
 "Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,7 +55,7 @@ msgstr "80+"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_empowerment
 msgid "<br/>Blending creativity and precision in every project.<br/><br/>"
-msgstr ""
+msgstr "<br/>ผสมผสานความคิดสร้างสรรค์และความแม่นยำในทุกโปรเจ็กต์<br/><br/>"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_cover
@@ -74,6 +74,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Award-"
 "winning designs"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
+"role=\"img\"/>  การออกแบบที่ได้รับรางวัล"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_parallax
@@ -86,7 +88,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_image_title
 msgid "A Deep Dive into Design and Excellence"
-msgstr ""
+msgstr "เจาะลึกการออกแบบและความเป็นเลิศ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
@@ -96,7 +98,7 @@ msgstr "มุมมองที่แตกต่าง"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_freegrid
 msgid "Architectural Excellence for Corporate Success"
-msgstr ""
+msgstr "ความเป็นเลิศด้านสถาปัตยกรรมเพื่อความสำเร็จขององค์กร"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -111,7 +113,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_call_to_action
 msgid "As 436 clients before you, let’s work together"
-msgstr ""
+msgstr "เนื่องจากคุณมีลูกค้า 436 รายก่อนหน้า มาร่วมทำงานไปด้วยกัน"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_empowerment
@@ -136,12 +138,12 @@ msgstr "สร้างปราสาทในคลาวด์"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_card_offset
 msgid "Building the Future of Business"
-msgstr ""
+msgstr "การสร้างอนาคตของธุรกิจ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_carousel_intro
 msgid "Building your vision into reality"
-msgstr ""
+msgstr "การสร้างวิสัยทัศน์ของคุณให้กลายเป็นความจริง"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_card_offset
@@ -202,7 +204,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_striped_center_top
 msgid "Design that defines your vision"
-msgstr ""
+msgstr "การออกแบบที่กำหนดวิสัยทัศน์ของคุณ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_card_offset
@@ -293,6 +295,7 @@ msgid ""
 "Enhance your property with our innovative designs and professional "
 "craftsmanship."
 msgstr ""
+"เพิ่มความสวยงามให้กับทรัพย์สินของคุณด้วยดีไซน์อันสร้างสรรค์และงานฝีมือระดับมืออาชีพของเรา"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_benefits
@@ -315,7 +318,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_striped_top
 msgid "Experience the Future of<br/>Innovation in Every<br/>Interaction"
-msgstr ""
+msgstr "สัมผัสประสบการณ์แห่ง<br/>นวัตกรรมแห่งอนาคต<br/>ในทุกการโต้ตอบ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_wavy_grid
@@ -340,12 +343,12 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Find Your Perfect Space with Us"
-msgstr ""
+msgstr "ค้นหาพื้นที่ของคุณไปกับเรา"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Flexible leasing options for residential and commercial properties"
-msgstr ""
+msgstr "ตัวเลือกการเช่าที่ยืดหยุ่นสำหรับที่อยู่อาศัยและเชิงธุรกิจ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_cards_grid
@@ -395,7 +398,7 @@ msgstr "โซลูชั่นการออกแบบเชิงนวั
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_title
 msgid "Innovative architecture <br/>and sustainable design solutions"
-msgstr ""
+msgstr "สถาปัตยกรรมเชิงนวัตกรรม<br/>และโซลูชั่นการออกแบบที่ยั่งยืน"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -536,12 +539,12 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Prime locations to suit your lifestyle or business"
-msgstr ""
+msgstr "ทำเลทองที่เหมาะกับไลฟ์สไตล์หรือธุรกิจของคุณ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Professional management for a hassle-free experience"
-msgstr ""
+msgstr "การจัดการอย่างมืออาชีพเพื่อประสบการณ์ที่ราบรื่น"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -551,7 +554,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Quality Rentals for Every Need and Budget"
-msgstr ""
+msgstr "การเช่าที่มีคุณภาพสำหรับทุกความต้องการและงบประมาณ"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_wavy_grid
@@ -561,7 +564,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_striped_center_top
 msgid "Redefining Spaces with Architectural Innovation"
-msgstr ""
+msgstr "การกำหนดพื้นที่ใหม่ด้วยนวัตกรรมทางสถาปัตยกรรม"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -587,7 +590,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Start your journey to the ideal property today"
-msgstr ""
+msgstr "เริ่มต้นการเดินทางของคุณสู่อสังหาริมทรัพย์ในฝันได้แล้ววันนี้"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -602,17 +605,17 @@ msgstr "เริ่มต้นที่ 3,000 ดอลลาร์"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
 msgid "Starting at $5,000"
-msgstr ""
+msgstr "เริ่มต้นที่ $5,000"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
 msgid "Starting at $6,000"
-msgstr ""
+msgstr "เริ่มต้นที่ $6,000"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
 msgid "Starting at $7,500"
-msgstr ""
+msgstr "เริ่มต้นที่ $7,500"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_pricelist_boxed
@@ -622,7 +625,7 @@ msgstr "เริ่มต้นที่ 8,000 ดอลลาร์"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_cta_box
 msgid "Still hesitating ?<br/>Contact us, it's free"
-msgstr ""
+msgstr "ยังลังเลอยู่ใช่ไหม <br/>ติดต่อเราได้ฟรี"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_features_wall
@@ -705,11 +708,12 @@ msgid ""
 "Transform your vision into reality with our innovative architectural "
 "solutions."
 msgstr ""
+"เปลี่ยนวิสัยทัศน์ของคุณให้เป็นจริงด้วยโซลูชันสถาปัตยกรรมที่สร้างสรรค์ของเรา"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_empowerment
 msgid "View our portfolio   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr ""
+msgstr "ดูผลงานของเรา   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_picture
@@ -790,7 +794,7 @@ msgstr ""
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_wavy_grid
 msgid "What we build for our clients"
-msgstr ""
+msgstr "สิ่งที่เราสร้างสำหรับลูกค้าของเรา"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_image
